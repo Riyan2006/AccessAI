@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d799fee-b0d2-4ac6-a6f0-a73a2a0b8acc" name="Changes" comment="Initial webcam detector">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3d799fee-b0d2-4ac6-a6f0-a73a2a0b8acc" name="Changes" comment="Initial webcam detector" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,6 +186,7 @@
       <workItem from="1779459148215" duration="8448000" />
       <workItem from="1779514328596" duration="8577000" />
       <workItem from="1779550341917" duration="3422000" />
+      <workItem from="1779602192484" duration="454000" />
     </task>
     <servers />
   </component>
