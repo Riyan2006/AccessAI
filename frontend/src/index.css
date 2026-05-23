@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 5%;
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 45%;
+    --card: 0 0% 99%;
+    --card-foreground: 0 0% 5%;
+    --primary: 270 100% 75%;
+    --primary-foreground: 0 0% 100%;
+    --accent: 270 60% 70%;
+    --accent-foreground: 0 0% 100%;
+    --success: 142 76% 36%;
+    --success-foreground: 0 0% 100%;
+    --warning: 38 92% 50%;
+    --warning-foreground: 0 0% 10%;
+    --danger: 0 84% 60%;
+    --danger-foreground: 0 0% 100%;
+    --info: 200 100% 50%;
+    --info-foreground: 0 0% 100%;
+    --radius: 0.5rem;
+  }
+
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+  }
+}
+
+

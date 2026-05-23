@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+# --- PYTHON BACKEND SHIELD ---
+.venv/
+__pycache__/
+*.pyc
+temp_voice.wav
+*.wav
+.cache/
+
+# --- REACT FRONTEND SHIELD ---
+node_modules/
+dist/
+build/
+.env.local
+.env
+
+# --- OS SHIELD ---
+.DS_Store
+Thumbs.db
+>>>>>>> 5ff0a35 (Initial Commit: AccessAI MVP Feature Complete)
