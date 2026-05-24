@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://via.placeholder.com/800x400/0f172a/6366f1?text=AccessAI:+Gesture+OS" alt="AccessAI Banner" width="100%" style="border-radius: 12px;"/>
+  <img src="https://github.com/Riyan2006/AccessAI/blob/8b3879633e717042e7c19521ffa39e26999876d1/Images/Thumbnail.png" alt="AccessAI Banner" width="100%" style="border-radius: 12px;"/>
 
   <h1>🧠 AccessAI: Gesture OS</h1>
   <p><strong>Navigate Your World, Hands-Free.</strong></p>
