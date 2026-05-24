@@ -5,98 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d799fee-b0d2-4ac6-a6f0-a73a2a0b8acc" name="Changes" comment="Initial webcam detector">
-      <change afterPath="$PROJECT_DIR$/.idea/Application.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/gesture_detector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/hand_landmarker.task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/theme-provider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/accordion.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/alert-dialog.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/alert.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/aspect-ratio.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/avatar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/badge.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/breadcrumb.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/button-group.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/calendar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/card.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/carousel.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/chart.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/checkbox.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/collapsible.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/command.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/context-menu.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/dialog.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/drawer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/dropdown-menu.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/empty.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/field.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/hover-card.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/input-group.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/input-otp.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/input.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/item.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/kbd.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/label.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/menubar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/navigation-menu.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/pagination.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/popover.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/progress.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/radio-group.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/resizable.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/scroll-area.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/select.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/separator.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/sheet.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/sidebar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/skeleton.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/slider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/sonner.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/spinner.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/switch.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/table.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/tabs.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/textarea.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/toast.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/toaster.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/toggle-group.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/toggle.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/tooltip.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/use-mobile.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/ui/use-toast.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/hooks/use-mobile.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/hooks/use-toast.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/lib/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pnpm-lock.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/icon-dark-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/icon-light-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/placeholder-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/placeholder-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/placeholder-user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/placeholder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/placeholder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/tailwind.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.node.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/vite.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="94" />
+    <option name="cachedIndexableFilesCount" value="101" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,61 +32,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.4463691830166232" />
-      <entry key="MS500" value="5.00490136147423" />
-      <entry key="S2" value="16.24354754527994" />
-      <entry key="S5" value="28.57076570909481" />
-      <entry key="S10" value="36.707352249538246" />
-      <entry key="S30" value="44.76032968612087" />
-      <entry key="S60" value="51.28414697649535" />
-      <entry key="M2" value="62.96046781563604" />
-      <entry key="M5" value="79.17654983946818" />
-      <entry key="M10" value="87.52845931906356" />
-      <entry key="M15" value="90.84116258398991" />
-      <entry key="M30" value="95.14176310795983" />
-      <entry key="H1" value="98.9363306582528" />
-      <entry key="H2" value="102.1000793573173" />
-      <entry key="H4" value="104.26739094975042" />
-      <entry key="D1" value="106.49806556601564" />
-      <entry key="W1" value="106.92704788488652" />
+      <entry key="MS100" value="1.2831440983132127" />
+      <entry key="MS500" value="4.403260196775503" />
+      <entry key="S2" value="13.574842182090991" />
+      <entry key="S5" value="26.690430538538187" />
+      <entry key="S10" value="41.31032708741677" />
+      <entry key="S30" value="61.14610185167288" />
+      <entry key="S60" value="72.01292918897511" />
+      <entry key="M2" value="86.10710871942834" />
+      <entry key="M5" value="104.25141374348071" />
+      <entry key="M10" value="113.46769290106262" />
+      <entry key="M15" value="117.10806830736304" />
+      <entry key="M30" value="121.75852722429774" />
+      <entry key="H1" value="125.73746127219664" />
+      <entry key="H2" value="128.9976473041491" />
+      <entry key="H4" value="131.21515180555272" />
+      <entry key="D1" value="133.48918384607313" />
+      <entry key="W1" value="133.92577425848373" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="2.78670811105723E-20" />
+      <entry key="MS500" value="1.227490942869224E-4" />
+      <entry key="S2" value="0.105257869201052" />
+      <entry key="S5" value="0.40635146481289364" />
+      <entry key="S10" value="0.6374570297776099" />
+      <entry key="S30" value="0.8606309727599225" />
+      <entry key="S60" value="0.9277019848851903" />
+      <entry key="M2" value="0.9631728738316865" />
+      <entry key="M5" value="0.9851031258954946" />
+      <entry key="M10" value="0.9925236147797658" />
+      <entry key="M15" value="0.9950095117548984" />
+      <entry key="M30" value="0.9975016349635216" />
+      <entry key="H1" value="0.998750036277106" />
+      <entry key="H2" value="0.9993748227152339" />
+      <entry key="H4" value="0.9996873624865102" />
+      <entry key="D1" value="0.9999478869588" />
+      <entry key="W1" value="0.9999925551135523" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3809660704869782" />
-      <entry key="MS500" value="4.955757655055624" />
-      <entry key="S2" value="16.20146875765897" />
-      <entry key="S5" value="28.54097768374449" />
-      <entry key="S10" value="36.6881973437828" />
-      <entry key="S30" value="44.75164899093365" />
-      <entry key="S60" value="51.27456780596338" />
-      <entry key="M2" value="62.94906439115977" />
-      <entry key="M5" value="79.16796673590916" />
-      <entry key="M10" value="87.52309953836601" />
-      <entry key="M15" value="90.83730961212987" />
-      <entry key="M30" value="95.13967890316535" />
-      <entry key="H1" value="98.93524031353599" />
-      <entry key="H2" value="102.09951920622889" />
-      <entry key="H4" value="104.26710647922192" />
-      <entry key="D1" value="106.49801746623403" />
-      <entry key="W1" value="106.92704099542911" />
+      <entry key="MS100" value="1.246394179318602" />
+      <entry key="MS500" value="4.373510640753682" />
+      <entry key="S2" value="13.616351090779101" />
+      <entry key="S5" value="27.003878043433748" />
+      <entry key="S10" value="41.87061946198847" />
+      <entry key="S30" value="61.96900317412635" />
+      <entry key="S60" value="72.91539188247683" />
+      <entry key="M2" value="87.05082094539516" />
+      <entry key="M5" value="105.22456796532246" />
+      <entry key="M10" value="114.45312411297112" />
+      <entry key="M15" value="118.0980554217937" />
+      <entry key="M30" value="122.75335176778385" />
+      <entry key="H1" value="126.73482226721964" />
+      <entry key="H2" value="129.99631203240864" />
+      <entry key="H4" value="132.21447957201264" />
+      <entry key="D1" value="134.48907109044572" />
+      <entry key="W1" value="134.92575813176677" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -277,7 +186,8 @@
       <workItem from="1779432264071" duration="4065000" />
       <workItem from="1779439009907" duration="454000" />
       <workItem from="1779459148215" duration="8448000" />
-      <workItem from="1779514328596" duration="6737000" />
+      <workItem from="1779514328596" duration="8577000" />
+      <workItem from="1779550341917" duration="3422000" />
     </task>
     <servers />
   </component>
@@ -286,7 +196,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Application$webcam_test.coverage" NAME="webcam_test Coverage Results" MODIFIED="1779116693760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Application$server.coverage" NAME="server Coverage Results" MODIFIED="1779523108140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+    <SUITE FILE_PATH="coverage/Application$server.coverage" NAME="server Coverage Results" MODIFIED="1779553929061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
     <SUITE FILE_PATH="coverage/Application$gesture_detector.coverage" NAME="gesture_detector Coverage Results" MODIFIED="1779343896115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
   </component>
 </project>
