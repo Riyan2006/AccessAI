@@ -97,5 +97,5 @@ Navigate to `http://localhost:5173` in your browser.
 ---
 
 <div align="center">
-  <p>Built completely solo for <b>NextGenHacks 2026</b>.</p>
+  <p>Built completely solo for my first hackathon.</p>
 </div>
